@@ -95,6 +95,11 @@ l=['Denmark','Australia','Russia','Spain','HolySee']
 t=('V','O','W','E','L')
 f=frozenset(l)
 print(f)
+f1=frozenset(t)
+print(f1)
+
+
+
 
 
 
